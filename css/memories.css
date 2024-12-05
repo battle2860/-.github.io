@@ -469,7 +469,10 @@
 		font-size: 4vw !important;
 	}
 }
-
+.ly-stxt01, .ly-stxt02, .ly-stxt03, .ly-stxt04, .ly-stxt05, 
+.ly-stxt06, .ly-stxt07, .ly-stxt08, .ly-stxt09, .ly-stxt10 {
+    line-height: 1; /* 行间距设置为 1.5 倍字体大小 */
+}
 .ly-stxt01 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
